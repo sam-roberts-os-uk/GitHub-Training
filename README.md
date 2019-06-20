@@ -5,7 +5,7 @@ Training Session
 # test-training
 
 
-Rachael's training module :mortar_board:
+Rachel's training module :mortar_board:
 
 
 
