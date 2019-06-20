@@ -14,12 +14,31 @@ Changed Name
 *A repository to teach you the basics of Github*
 
 
+This is a section for extra training 
+
+
 
 <br>
 
 <br>
 
 <br>
+
+
+
+
+
+
+# What's missing??
+
+Monday
+Tuesday
+Wednesday
+Friday
+Saturday
+Sunday
+
+
 
 
 
