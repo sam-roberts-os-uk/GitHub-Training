@@ -7,6 +7,8 @@ Training Session
 
 Rachel's training module :mortar_board:
 
+Changed Name 
+
 
 
 *A repository to teach you the basics of Github*
